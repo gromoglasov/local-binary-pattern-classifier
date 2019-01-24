@@ -1,10 +1,10 @@
-local-binary-pattern-classifier
+#local-binary-pattern-classifier
 
 My implementation of classificication using histograms of local binary patterns.
 
 The project is using written in Python 3.6.
 
-List of Dependencies:
+##List of Dependencies:
 
 - OpenCV
 
@@ -12,7 +12,7 @@ List of Dependencies:
 
 - MatPlotLib
 
-NOT JUPYTER NOTEBOOK
+**NOT JUPYTER NOTEBOOK**
 
 Run from terminal, PyCharm, or from anything else that makes you happy:)
 
